@@ -1,0 +1,30 @@
+# 🌟 Vidya Jyothi (ವಿದ್ಯಾ ಜ್ಯೋತಿ)
+### *ವಿದ್ಯೆ ಎಂಬ ಜ್ಯೋತಿ, ಬದುಕಿಗೆ ದಾರಿದೀಪ | All-in-One AI Learning & Skill App*
+
+**Vidya Jyothi** is an AI-powered comprehensive educational and competitive coaching platform built for students and aspirants from 1st Grade to Ph.D. level with Kannada & English bilingual AI tutoring.
+
+---
+
+## ✨ Key Features (ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯಗಳು)
+- 🤖 **AI Bilingual Teacher:** Real-time doubt solver in Kannada & English.
+- 📚 **1st to Ph.D. Academy:** Structured study notes, formulas, and revision guides.
+- 🎯 **Competitive Exam Coaching:** KPSC (KAS, FDA, SDA), Police, Railway, Banking, KARTET mock tests.
+- 🎙️ **Live Audio Learning & News:** Daily Current Affairs audio feed & motivational life stories.
+- 🏅 **Sports Coaching Academy:** Training drills, nutrition & mental stamina guides.
+- 💳 **Direct PhonePe VIP Subscription:** Integrated instant UPI payment & UTR verification.
+
+---
+
+## 🛠️ Tech Stack & Architecture
+- **Language:** Kotlin
+- **UI Framework:** Jetpack Compose (Material 3)
+- **Architecture:** MVVM + Clean Architecture
+- **AI Intelligence:** Gemini 2.5 Pro / Flash APIs
+- **Payments:** Direct PhonePe UPI & Dynamic QR Engine
+
+---
+
+## 👨‍💻 Developer & Ownership
+- **Developer:** Shiva Sathi
+- **Email:** shivasathi34@gmail.com
+- **App Platform:** Google AI Studio Android
